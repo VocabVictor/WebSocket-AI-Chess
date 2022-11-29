@@ -5,8 +5,8 @@ public interface SocketIoService {
     /**
      * 推送的事件
      */
-    String PUSH_EVENT = "push_event";
-
+    String SEND_EVENT = "send_event";
+    String RECEIVE_EVENT = "receive_event";
     /**
      * 启动服务
      *

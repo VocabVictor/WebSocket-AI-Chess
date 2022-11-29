@@ -2,8 +2,8 @@ package Web;
 
 
 /**
- * @author linzf
- * @since 2019-06-13
+ * @author 曹
+ * @since 2022-11-25
  * 类描述：socket消息发送实体类
  */
 public class PushMessage {
